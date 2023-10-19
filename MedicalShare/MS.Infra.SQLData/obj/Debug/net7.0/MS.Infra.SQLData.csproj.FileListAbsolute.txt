@@ -1,0 +1,12 @@
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\bin\Debug\net7.0\MS.Infra.SQLData.deps.json
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\bin\Debug\net7.0\MS.Infra.SQLData.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\bin\Debug\net7.0\MS.Infra.SQLData.pdb
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.csproj.AssemblyReference.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.AssemblyInfoInputs.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.AssemblyInfo.cs
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.csproj.CoreCompileInputs.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\refint\MS.Infra.SQLData.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\MS.Infra.SQLData.pdb
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Infra.SQLData\obj\Debug\net7.0\ref\MS.Infra.SQLData.dll

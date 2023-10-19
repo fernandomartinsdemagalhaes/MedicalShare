@@ -1,0 +1,12 @@
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\bin\Debug\net7.0\MS.Core.deps.json
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\bin\Debug\net7.0\MS.Core.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\bin\Debug\net7.0\MS.Core.pdb
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.csproj.AssemblyReference.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.AssemblyInfoInputs.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.AssemblyInfo.cs
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\refint\MS.Core.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\MS.Core.pdb
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\MS.Core\obj\Debug\net7.0\ref\MS.Core.dll

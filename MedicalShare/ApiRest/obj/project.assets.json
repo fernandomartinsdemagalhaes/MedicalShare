@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "MS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MS.Core.dll": {}
+        }
       }
     }
   },
@@ -451,10 +461,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "MS.Core/1.0.0": {
+      "type": "project",
+      "path": "../MS.Core/MS.Core.csproj",
+      "msbuildProject": "../MS.Core/MS.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "MS.Core >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -485,7 +501,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lagoeiro\\Documents\\MedicalShare\\MedicalShare\\MS.Core\\MS.Core.csproj": {
+              "projectPath": "C:\\Users\\Lagoeiro\\Documents\\MedicalShare\\MedicalShare\\MS.Core\\MS.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AaQUvR3NsxgaKPZvOiH9MYssAXRlxKdYezlwDHK+OZM=",
+  "Source": "MS.ApiRest",
+  "BasePath": "_content/MS.ApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
