@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MS.Core.Domain.Entities.Values
 {
-    internal class Address
+    public class Address
     {
     }
 }

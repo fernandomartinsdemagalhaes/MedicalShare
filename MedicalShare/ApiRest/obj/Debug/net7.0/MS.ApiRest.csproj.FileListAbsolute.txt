@@ -31,3 +31,5 @@ C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\obj\Debug\net7.0\r
 C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\obj\Debug\net7.0\MS.ApiRest.pdb
 C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\obj\Debug\net7.0\MS.ApiRest.genruntimeconfig.cache
 C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\obj\Debug\net7.0\ref\MS.ApiRest.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\bin\Debug\net7.0\MS.Core.dll
+C:\Users\Lagoeiro\Documents\MedicalShare\MedicalShare\ApiRest\bin\Debug\net7.0\MS.Core.pdb

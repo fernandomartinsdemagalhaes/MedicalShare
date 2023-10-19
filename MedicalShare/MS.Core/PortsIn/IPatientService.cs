@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MS.Core.PortsIn
 {
-    internal interface IPatientService
+    public interface IPatientService
     {
 
         string CreatetePatient(Patient patient);
